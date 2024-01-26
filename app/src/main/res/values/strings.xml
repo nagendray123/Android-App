@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="button1">Button</string>
+    <string name="home">Home</string>
+    <string name="setting">Settings</string>
+    <string name="file">File Manager</string>
+    <string name="drive">Google Drive</string>
+    <string name="rotation">3D Rotation</string>
+    <string name="bell">Alarm</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="camera">Camera</string>
+    <string name="calculator">Calculator</string>
+
+    <string name="button2">Button</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="abc">Name</string>
+    <string name="id">Id</string>
+    <string name="recyclerview">Recycler_View</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_1">Fragment-1</string>
+    <string name="hello_blank_fragment_2">Fragment-2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="login_fragment">Login Fragment</string>
+    <string name="signup_fragment">Status Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Welcome Fragment</string>
+    <string name="null_hello">null</string>
+    <string name="enter_your_email">example@.com</string>
+    <string name="enter_your_password">password</string>
+    <string name="login">Login</string>
+    <string name="first_name">First_name</string>
+    <string name="last_name">Last_name</string>
+    <string name="email">Email</string>
+    <string name="conform_password">Conform_password</string>
+    <string name="Register">Register</string>
+
+    <string name="home_fragment">HOME FRAGMENT</string>
+    <string name="data_fragment">DATA FRAGMENT</string>
+    <string name="go_to_data">GOTO DATA FRAGMENT</string>
+    <string name="go_to_home">GOTO HOME FRAGMENT</string>
+
+</resources>
